@@ -1,5 +1,7 @@
 Dataset :
+The dataset used is taken from yelp dataset challenge
 Both the files are in JSON Format
+
 
 # DataVisualization-of-Yelp-Dataset
 Yelp_academic_dataset_business file:
